@@ -23,6 +23,7 @@ namespace GitHubTest
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("1");
             Console.WriteLine("First commit");
             Console.WriteLine("second commit");
             Console.WriteLine("New commit");
@@ -30,7 +31,6 @@ namespace GitHubTest
             Console.WriteLine("New New New commit");
             Console.WriteLine("One");
             Console.WriteLine("Two");
-            Console.WriteLine("Three");
         }
     }
 }
