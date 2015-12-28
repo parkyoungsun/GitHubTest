@@ -26,6 +26,7 @@ namespace GitHubTest
             Console.WriteLine("First commit");
             Console.WriteLine("second commit");
             Console.WriteLine("New commit");
+            Console.WriteLine("New New commit");
         }
     }
 }
