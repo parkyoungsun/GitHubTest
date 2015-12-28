@@ -23,6 +23,7 @@ namespace GitHubTest
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("First commit");
         }
     }
 }
