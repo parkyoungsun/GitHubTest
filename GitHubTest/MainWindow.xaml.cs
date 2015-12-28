@@ -24,7 +24,7 @@ namespace GitHubTest
         {
             InitializeComponent();
             Console.WriteLine("First commit");
-            Console.WriteLine("Second commit");
+            Console.WriteLine("second commit");
         }
     }
 }
