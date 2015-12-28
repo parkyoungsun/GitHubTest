@@ -24,6 +24,7 @@ namespace GitHubTest
         {
             InitializeComponent();
             Console.WriteLine("Test");
+            Console.WriteLine("Test1");
         }
     }
 }
